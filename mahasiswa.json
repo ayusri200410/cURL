@@ -1,802 +1,704 @@
 [
     {
-        "id_anggota": "A001",
         "nis": "2023001",
-        "nama": "Ahmad Fauzi",
+        "nama": "Andi Wijaya",
         "jenis_kelamin": "Laki-laki",
         "no_telp": "081234567890",
-        "alamat": "Jl. Merdeka No. 10, Jakarta"
+        "alamat": "Jl. Merpati No. 1, Jakarta"
     },
     {
-        "id_anggota": "A002",
         "nis": "2023002",
-        "nama": "Rina Sari",
+        "nama": "Siti Aminah",
         "jenis_kelamin": "Perempuan",
         "no_telp": "081234567891",
-        "alamat": "Jl. Sudirman No. 15, Bandung"
+        "alamat": "Jl. Kenari No. 5, Bandung"
     },
     {
-        "id_anggota": "A003",
         "nis": "2023003",
         "nama": "Budi Santoso",
         "jenis_kelamin": "Laki-laki",
         "no_telp": "081234567892",
-        "alamat": "Jl. Thamrin No. 20, Surabaya"
+        "alamat": "Jl. Mawar No. 10, Surabaya"
     },
     {
-        "id_anggota": "A004",
         "nis": "2023004",
-        "nama": "Siti Aminah",
+        "nama": "Dewi Sartika",
         "jenis_kelamin": "Perempuan",
         "no_telp": "081234567893",
-        "alamat": "Jl. Gatot Subroto No. 25, Yogyakarta"
+        "alamat": "Jl. Melati No. 15, Yogyakarta"
     },
     {
-        "id_anggota": "A005",
         "nis": "2023005",
         "nama": "Eko Prasetyo",
         "jenis_kelamin": "Laki-laki",
         "no_telp": "081234567894",
-        "alamat": "Jl. Diponegoro No. 30, Medan"
+        "alamat": "Jl. Anggrek No. 20, Medan"
     },
     {
-        "id_anggota": "A006",
         "nis": "2023006",
-        "nama": "Wahyu Hidayat",
-        "jenis_kelamin": "Laki-laki",
+        "nama": "Tuti Wulandari",
+        "jenis_kelamin": "Perempuan",
         "no_telp": "081234567895",
-        "alamat": "Jl. Ahmad Yani No. 35, Jakarta"
+        "alamat": "Jl. Kamboja No. 25, Jakarta"
     },
     {
-        "id_anggota": "A007",
         "nis": "2023007",
-        "nama": "Dewi Lestari",
-        "jenis_kelamin": "Perempuan",
+        "nama": "Adi Nugroho",
+        "jenis_kelamin": "Laki-laki",
         "no_telp": "081234567896",
-        "alamat": "Jl. Melati No. 40, Bandung"
+        "alamat": "Jl. Dahlia No. 30, Bandung"
     },
     {
-        "id_anggota": "A008",
         "nis": "2023008",
-        "nama": "Rudi Hartono",
-        "jenis_kelamin": "Laki-laki",
+        "nama": "Rina Susanti",
+        "jenis_kelamin": "Perempuan",
         "no_telp": "081234567897",
-        "alamat": "Jl. Anggrek No. 45, Surabaya"
+        "alamat": "Jl. Flamboyan No. 35, Surabaya"
     },
     {
-        "id_anggota": "A009",
         "nis": "2023009",
-        "nama": "Indah Permata",
-        "jenis_kelamin": "Perempuan",
+        "nama": "Joko Widodo",
+        "jenis_kelamin": "Laki-laki",
         "no_telp": "081234567898",
-        "alamat": "Jl. Mawar No. 50, Yogyakarta"
+        "alamat": "Jl. Cemara No. 40, Yogyakarta"
     },
     {
-        "id_anggota": "A010",
         "nis": "2023010",
-        "nama": "Andi Wijaya",
-        "jenis_kelamin": "Laki-laki",
-        "no_telp": "081234567899",
-        "alamat": "Jl. Kenanga No. 55, Medan"
-    },
-    {
-        "id_anggota": "A011",
-        "nis": "2023011",
-        "nama": "Putri Ayu",
-        "jenis_kelamin": "Perempuan",
-        "no_telp": "081234567800",
-        "alamat": "Jl. Cempaka No. 60, Jakarta"
-    },
-    {
-        "id_anggota": "A012",
-        "nis": "2023012",
-        "nama": "Asep Sutisna",
-        "jenis_kelamin": "Laki-laki",
-        "no_telp": "081234567801",
-        "alamat": "Jl. Bougenville No. 65, Bandung"
-    },
-    {
-        "id_anggota": "A013",
-        "nis": "2023013",
-        "nama": "Maya Puspita",
-        "jenis_kelamin": "Perempuan",
-        "no_telp": "081234567802",
-        "alamat": "Jl. Seroja No. 70, Surabaya"
-    },
-    {
-        "id_anggota": "A014",
-        "nis": "2023014",
-        "nama": "Hendra Setiawan",
-        "jenis_kelamin": "Laki-laki",
-        "no_telp": "081234567803",
-        "alamat": "Jl. Dahlia No. 75, Yogyakarta"
-    },
-    {
-        "id_anggota": "A015",
-        "nis": "2023015",
-        "nama": "Lestari Indah",
-        "jenis_kelamin": "Perempuan",
-        "no_telp": "081234567804",
-        "alamat": "Jl. Kamboja No. 80, Medan"
-    },
-    {
-        "id_anggota": "A016",
-        "nis": "2023016",
-        "nama": "Rian Nugraha",
-        "jenis_kelamin": "Laki-laki",
-        "no_telp": "081234567805",
-        "alamat": "Jl. Melur No. 85, Jakarta"
-    },
-    {
-        "id_anggota": "A017",
-        "nis": "2023017",
-        "nama": "Tuti Susanti",
-        "jenis_kelamin": "Perempuan",
-        "no_telp": "081234567806",
-        "alamat": "Jl. Tulip No. 90, Bandung"
-    },
-    {
-        "id_anggota": "A018",
-        "nis": "2023018",
-        "nama": "Agus Firmansyah",
-        "jenis_kelamin": "Laki-laki",
-        "no_telp": "081234567807",
-        "alamat": "Jl. Sakura No. 95, Surabaya"
-    },
-    {
-        "id_anggota": "A019",
-        "nis": "2023019",
-        "nama": "Sari Rahayu",
-        "jenis_kelamin": "Perempuan",
-        "no_telp": "081234567808",
-        "alamat": "Jl. Teratai No. 100, Yogyakarta"
-    },
-    {
-        "id_anggota": "A020",
-        "nis": "2023020",
-        "nama": "Doni Prasetyo",
-        "jenis_kelamin": "Laki-laki",
-        "no_telp": "081234567809",
-        "alamat": "Jl. Mawar No. 105, Medan"
-    },
-    {
-        "id_anggota": "A021",
-        "nis": "2023021",
-        "nama": "Susi Windyastuti",
-        "jenis_kelamin": "Perempuan",
-        "no_telp": "081234567810",
-        "alamat": "Jl. Melati No. 110, Jakarta"
-    },
-    {
-        "id_anggota": "A022",
-        "nis": "2023022",
-        "nama": "Hadi Wibowo",
-        "jenis_kelamin": "Laki-laki",
-        "no_telp": "081234567811",
-        "alamat": "Jl. Cendana No. 115, Bandung"
-    },
-    {
-        "id_anggota": "A023",
-        "nis": "2023023",
         "nama": "Ayu Lestari",
         "jenis_kelamin": "Perempuan",
-        "no_telp": "081234567812",
-        "alamat": "Jl. Kenanga No. 120, Surabaya"
+        "no_telp": "081234567899",
+        "alamat": "Jl. Cendana No. 45, Medan"
     },
     {
-        "id_anggota": "A024",
-        "nis": "2023024",
-        "nama": "Fajar Pratama",
+        "nis": "2023011",
+        "nama": "Ahmad Syarif",
         "jenis_kelamin": "Laki-laki",
-        "no_telp": "081234567813",
-        "alamat": "Jl. Anggrek No. 125, Yogyakarta"
+        "no_telp": "081234567800",
+        "alamat": "Jl. Kelapa No. 50, Jakarta"
     },
     {
-        "id_anggota": "A025",
-        "nis": "2023025",
-        "nama": "Diana Putri",
+        "nis": "2023012",
+        "nama": "Sari Wulandari",
         "jenis_kelamin": "Perempuan",
-        "no_telp": "081234567814",
-        "alamat": "Jl. Flamboyan No. 130, Medan"
+        "no_telp": "081234567801",
+        "alamat": "Jl. Pinus No. 55, Bandung"
     },
     {
-        "id_anggota": "A026",
-        "nis": "2023026",
-        "nama": "Yudi Kurniawan",
-        "jenis_kelamin": "Laki-laki",
-        "no_telp": "081234567815",
-        "alamat": "Jl. Mahoni No. 135, Jakarta"
-    },
-    {
-        "id_anggota": "A027",
-        "nis": "2023027",
-        "nama": "Nia Ramadhani",
-        "jenis_kelamin": "Perempuan",
-        "no_telp": "081234567816",
-        "alamat": "Jl. Pinus No. 140, Bandung"
-    },
-    {
-        "id_anggota": "A028",
-        "nis": "2023028",
+        "nis": "2023013",
         "nama": "Dedi Setiawan",
         "jenis_kelamin": "Laki-laki",
-        "no_telp": "081234567817",
-        "alamat": "Jl. Cemara No. 145, Surabaya"
+        "no_telp": "081234567802",
+        "alamat": "Jl. Cemara No. 60, Surabaya"
     },
     {
-        "id_anggota": "A029",
-        "nis": "2023029",
+        "nis": "2023014",
         "nama": "Linda Kusuma",
         "jenis_kelamin": "Perempuan",
-        "no_telp": "081234567818",
-        "alamat": "Jl. Jati No. 150, Yogyakarta"
+        "no_telp": "081234567803",
+        "alamat": "Jl. Jati No. 65, Yogyakarta"
     },
     {
-        "id_anggota": "A030",
-        "nis": "2023030",
+        "nis": "2023015",
         "nama": "Andi Saputra",
         "jenis_kelamin": "Laki-laki",
-        "no_telp": "081234567819",
-        "alamat": "Jl. Mangga No. 155, Medan"
+        "no_telp": "081234567804",
+        "alamat": "Jl. Mangga No. 70, Medan"
     },
     {
-        "id_anggota": "A031",
-        "nis": "2023031",
+        "nis": "2023016",
         "nama": "Tina Maharani",
         "jenis_kelamin": "Perempuan",
-        "no_telp": "081234567820",
-        "alamat": "Jl. Durian No. 160, Jakarta"
+        "no_telp": "081234567805",
+        "alamat": "Jl. Durian No. 75, Jakarta"
     },
     {
-        "id_anggota": "A032",
-        "nis": "2023032",
+        "nis": "2023017",
         "nama": "Bambang Supriyadi",
         "jenis_kelamin": "Laki-laki",
-        "no_telp": "081234567821",
-        "alamat": "Jl. Angsana No. 165, Bandung"
+        "no_telp": "081234567806",
+        "alamat": "Jl. Angsana No. 80, Bandung"
     },
     {
-        "id_anggota": "A033",
-        "nis": "2023033",
+        "nis": "2023018",
         "nama": "Dewi Purnama",
         "jenis_kelamin": "Perempuan",
-        "no_telp": "081234567822",
-        "alamat": "Jl. Sawo No. 170, Surabaya"
+        "no_telp": "081234567807",
+        "alamat": "Jl. Sawo No. 85, Surabaya"
     },
     {
-        "id_anggota": "A034",
-        "nis": "2023034",
+        "nis": "2023019",
         "nama": "Indra Lesmana",
         "jenis_kelamin": "Laki-laki",
-        "no_telp": "081234567823",
-        "alamat": "Jl. Nangka No. 175, Yogyakarta"
+        "no_telp": "081234567808",
+        "alamat": "Jl. Nangka No. 90, Yogyakarta"
     },
     {
-        "id_anggota": "A035",
-        "nis": "2023035",
+        "nis": "2023020",
         "nama": "Rini Susanti",
         "jenis_kelamin": "Perempuan",
-        "no_telp": "081234567824",
-        "alamat": "Jl. Rambutan No. 180, Medan"
+        "no_telp": "081234567809",
+        "alamat": "Jl. Rambutan No. 95, Medan"
     },
     {
-        "id_anggota": "A036",
-        "nis": "2023036",
+        "nis": "2023021",
         "nama": "Agus Setiawan",
         "jenis_kelamin": "Laki-laki",
-        "no_telp": "081234567825",
-        "alamat": "Jl. Duku No. 185, Jakarta"
+        "no_telp": "081234567810",
+        "alamat": "Jl. Duku No. 100, Jakarta"
     },
     {
-        "id_anggota": "A037",
-        "nis": "2023037",
+        "nis": "2023022",
         "nama": "Mira Sari",
         "jenis_kelamin": "Perempuan",
-        "no_telp": "081234567826",
-        "alamat": "Jl. Kemiri No. 190, Bandung"
+        "no_telp": "081234567811",
+        "alamat": "Jl. Kemiri No. 105, Bandung"
     },
     {
-        "id_anggota": "A038",
-        "nis": "2023038",
+        "nis": "2023023",
         "nama": "Anton Wijaya",
         "jenis_kelamin": "Laki-laki",
-        "no_telp": "081234567827",
-        "alamat": "Jl. Manggis No. 195, Surabaya"
+        "no_telp": "081234567812",
+        "alamat": "Jl. Manggis No. 110, Surabaya"
     },
     {
-        "id_anggota": "A039",
-        "nis": "2023039",
+        "nis": "2023024",
         "nama": "Susi Wulandari",
         "jenis_kelamin": "Perempuan",
-        "no_telp": "081234567828",
-        "alamat": "Jl. Melon No. 200, Yogyakarta"
+        "no_telp": "081234567813",
+        "alamat": "Jl. Melon No. 115, Yogyakarta"
     },
     {
-        "id_anggota": "A040",
-        "nis": "2023040",
+        "nis": "2023025",
         "nama": "Eko Prabowo",
         "jenis_kelamin": "Laki-laki",
-        "no_telp": "081234567829",
-        "alamat": "Jl. Semangka No. 205, Medan"
+        "no_telp": "081234567814",
+        "alamat": "Jl. Semangka No. 120, Medan"
     },
     {
-        "id_anggota": "A041",
-        "nis": "2023041",
+        "nis": "2023026",
         "nama": "Yuni Ariska",
         "jenis_kelamin": "Perempuan",
-        "no_telp": "081234567830",
-        "alamat": "Jl. Durian No. 210, Jakarta"
+        "no_telp": "081234567815",
+        "alamat": "Jl. Durian No. 125, Jakarta"
     },
     {
-        "id_anggota": "A042",
-        "nis": "2023042",
+        "nis": "2023027",
         "nama": "Joko Susilo",
         "jenis_kelamin": "Laki-laki",
-        "no_telp": "081234567831",
-        "alamat": "Jl. Apel No. 215, Bandung"
+        "no_telp": "081234567816",
+        "alamat": "Jl. Apel No. 130, Bandung"
     },
     {
-        "id_anggota": "A043",
-        "nis": "2023043",
+        "nis": "2023028",
         "nama": "Lina Anggraeni",
         "jenis_kelamin": "Perempuan",
-        "no_telp": "081234567832",
-        "alamat": "Jl. Pisang No. 220, Surabaya"
+        "no_telp": "081234567817",
+        "alamat": "Jl. Pisang No. 135, Surabaya"
     },
     {
-        "id_anggota": "A044",
-        "nis": "2023044",
+        "nis": "2023029",
         "nama": "Dian Rahma",
         "jenis_kelamin": "Perempuan",
-        "no_telp": "081234567833",
-        "alamat": "Jl. Mangga No. 225, Yogyakarta"
+        "no_telp": "081234567818",
+        "alamat": "Jl. Mangga No. 140, Yogyakarta"
     },
     {
-        "id_anggota": "A045",
-        "nis": "2023045",
+        "nis": "2023030",
         "nama": "Wawan Kurniawan",
         "jenis_kelamin": "Laki-laki",
-        "no_telp": "081234567834",
-        "alamat": "Jl. Durian No. 230, Medan"
+        "no_telp": "081234567819",
+        "alamat": "Jl. Durian No. 145, Medan"
     },
     {
-        "id_anggota": "A046",
-        "nis": "2023046",
+        "nis": "2023031",
         "nama": "Ratna Dewi",
         "jenis_kelamin": "Perempuan",
-        "no_telp": "081234567835",
-        "alamat": "Jl. Rambutan No. 235, Jakarta"
+        "no_telp": "081234567820",
+        "alamat": "Jl. Rambutan No. 150, Jakarta"
     },
     {
-        "id_anggota": "A047",
-        "nis": "2023047",
+        "nis": "2023032",
         "nama": "Rudi Hidayat",
         "jenis_kelamin": "Laki-laki",
-        "no_telp": "081234567836",
-        "alamat": "Jl. Kelapa No. 240, Bandung"
+        "no_telp": "081234567821",
+        "alamat": "Jl. Sawo No. 155, Bandung"
     },
     {
-        "id_anggota": "A048",
+        "nis": "2023033",
+        "nama": "Desi Kartika",
+        "jenis_kelamin": "Perempuan",
+        "no_telp": "081234567822",
+        "alamat": "Jl. Nangka No. 160, Surabaya"
+    },
+    {
+        "nis": "2023034",
+        "nama": "Ahmad Yani",
+        "jenis_kelamin": "Laki-laki",
+        "no_telp": "081234567823",
+        "alamat": "Jl. Angsana No. 165, Yogyakarta"
+    },
+    {
+        "nis": "2023035",
+        "nama": "Maya Puspita",
+        "jenis_kelamin": "Perempuan",
+        "no_telp": "081234567824",
+        "alamat": "Jl. Manggis No. 170, Medan"
+    },
+    {
+        "nis": "2023036",
+        "nama": "Iwan Setiawan",
+        "jenis_kelamin": "Laki-laki",
+        "no_telp": "081234567825",
+        "alamat": "Jl. Cemara No. 175, Jakarta"
+    },
+    {
+        "nis": "2023037",
+        "nama": "Rina Andayani",
+        "jenis_kelamin": "Perempuan",
+        "no_telp": "081234567826",
+        "alamat": "Jl. Melati No. 180, Bandung"
+    },
+    {
+        "nis": "2023038",
+        "nama": "Agung Pratama",
+        "jenis_kelamin": "Laki-laki",
+        "no_telp": "081234567827",
+        "alamat": "Jl. Kamboja No. 185, Surabaya"
+    },
+    {
+        "nis": "2023039",
+        "nama": "Tuti Lestari",
+        "jenis_kelamin": "Perempuan",
+        "no_telp": "081234567828",
+        "alamat": "Jl. Anggrek No. 190, Yogyakarta"
+    },
+    {
+        "nis": "2023040",
+        "nama": "Rian Setiawan",
+        "jenis_kelamin": "Laki-laki",
+        "no_telp": "081234567829",
+        "alamat": "Jl. Flamboyan No. 195, Medan"
+    },
+    {
+        "nis": "2023041",
+        "nama": "Wahyu Purnama",
+        "jenis_kelamin": "Laki-laki",
+        "no_telp": "081234567830",
+        "alamat": "Jl. Kenari No. 200, Jakarta"
+    },
+    {
+        "nis": "2023042",
+        "nama": "Sari Prasetyo",
+        "jenis_kelamin": "Perempuan",
+        "no_telp": "081234567831",
+        "alamat": "Jl. Merpati No. 205, Bandung"
+    },
+    {
+        "nis": "2023043",
+        "nama": "Fajar Nugroho",
+        "jenis_kelamin": "Laki-laki",
+        "no_telp": "081234567832",
+        "alamat": "Jl. Melon No. 210, Surabaya"
+    },
+    {
+        "nis": "2023044",
+        "nama": "Rina Ayu",
+        "jenis_kelamin": "Perempuan",
+        "no_telp": "081234567833",
+        "alamat": "Jl. Cemara No. 215, Yogyakarta"
+    },
+    {
+        "nis": "2023045",
+        "nama": "Indra Kurniawan",
+        "jenis_kelamin": "Laki-laki",
+        "no_telp": "081234567834",
+        "alamat": "Jl. Mawar No. 220, Medan"
+    },
+    {
+        "nis": "2023046",
+        "nama": "Dewi Setiawati",
+        "jenis_kelamin": "Perempuan",
+        "no_telp": "081234567835",
+        "alamat": "Jl. Pinus No. 225, Jakarta"
+    },
+    {
+        "nis": "2023047",
+        "nama": "Bambang Susilo",
+        "jenis_kelamin": "Laki-laki",
+        "no_telp": "081234567836",
+        "alamat": "Jl. Cemara No. 230, Bandung"
+    },
+    {
         "nis": "2023048",
-        "nama": "Rina Aprilia",
+        "nama": "Sri Lestari",
         "jenis_kelamin": "Perempuan",
         "no_telp": "081234567837",
-        "alamat": "Jl. Jambu No. 245, Surabaya"
+        "alamat": "Jl. Jati No. 235, Surabaya"
     },
     {
-        "id_anggota": "A049",
         "nis": "2023049",
-        "nama": "Dedi Priyanto",
+        "nama": "Agus Priyanto",
         "jenis_kelamin": "Laki-laki",
         "no_telp": "081234567838",
-        "alamat": "Jl. Manggis No. 250, Yogyakarta"
+        "alamat": "Jl. Mangga No. 240, Yogyakarta"
     },
     {
-        "id_anggota": "A050",
         "nis": "2023050",
-        "nama": "Nina Lestari",
+        "nama": "Siti Andayani",
         "jenis_kelamin": "Perempuan",
         "no_telp": "081234567839",
-        "alamat": "Jl. Durian No. 255, Medan"
+        "alamat": "Jl. Cemara No. 245, Medan"
     },
     {
-        "id_anggota": "A051",
         "nis": "2023051",
-        "nama": "Yudi Pratama",
+        "nama": "Dedi Susanto",
         "jenis_kelamin": "Laki-laki",
         "no_telp": "081234567840",
-        "alamat": "Jl. Durian No. 260, Jakarta"
+        "alamat": "Jl. Rambutan No. 250, Jakarta"
     },
     {
-        "id_anggota": "A052",
         "nis": "2023052",
-        "nama": "Rini Kartika",
+        "nama": "Wahyu Puspita",
         "jenis_kelamin": "Perempuan",
         "no_telp": "081234567841",
-        "alamat": "Jl. Durian No. 265, Bandung"
+        "alamat": "Jl. Kenari No. 255, Bandung"
     },
     {
-        "id_anggota": "A053",
         "nis": "2023053",
-        "nama": "Andi Wijaya",
+        "nama": "Agung Setiawan",
         "jenis_kelamin": "Laki-laki",
         "no_telp": "081234567842",
-        "alamat": "Jl. Durian No. 270, Surabaya"
+        "alamat": "Jl. Melati No. 260, Surabaya"
     },
     {
-        "id_anggota": "A054",
         "nis": "2023054",
-        "nama": "Siti Aminah",
+        "nama": "Mira Susanti",
         "jenis_kelamin": "Perempuan",
         "no_telp": "081234567843",
-        "alamat": "Jl. Durian No. 275, Yogyakarta"
+        "alamat": "Jl. Kamboja No. 265, Yogyakarta"
     },
     {
-        "id_anggota": "A055",
         "nis": "2023055",
-        "nama": "Wahyu Setiawan",
+        "nama": "Doni Kurniawan",
         "jenis_kelamin": "Laki-laki",
         "no_telp": "081234567844",
-        "alamat": "Jl. Durian No. 280, Medan"
+        "alamat": "Jl. Durian No. 270, Medan"
     },
     {
-        "id_anggota": "A056",
         "nis": "2023056",
         "nama": "Sri Mulyani",
         "jenis_kelamin": "Perempuan",
         "no_telp": "081234567845",
-        "alamat": "Jl. Durian No. 285, Jakarta"
+        "alamat": "Jl. Durian No. 275, Jakarta"
     },
     {
-        "id_anggota": "A057",
         "nis": "2023057",
         "nama": "Fajar Nugroho",
         "jenis_kelamin": "Laki-laki",
         "no_telp": "081234567846",
-        "alamat": "Jl. Durian No. 290, Bandung"
+        "alamat": "Jl. Durian No. 280, Bandung"
     },
     {
-        "id_anggota": "A058",
         "nis": "2023058",
         "nama": "Tuti Andayani",
         "jenis_kelamin": "Perempuan",
         "no_telp": "081234567847",
-        "alamat": "Jl. Durian No. 295, Surabaya"
+        "alamat": "Jl. Durian No. 285, Surabaya"
     },
     {
-        "id_anggota": "A059",
         "nis": "2023059",
         "nama": "Deni Kurniawan",
         "jenis_kelamin": "Laki-laki",
         "no_telp": "081234567848",
-        "alamat": "Jl. Durian No. 300, Yogyakarta"
+        "alamat": "Jl. Durian No. 290, Yogyakarta"
     },
     {
-        "id_anggota": "A060",
         "nis": "2023060",
         "nama": "Lestari Puspita",
         "jenis_kelamin": "Perempuan",
         "no_telp": "081234567849",
-        "alamat": "Jl. Durian No. 305, Medan"
+        "alamat": "Jl. Durian No. 295, Medan"
     },
     {
-        "id_anggota": "A061",
         "nis": "2023061",
         "nama": "Agung Pratama",
         "jenis_kelamin": "Laki-laki",
         "no_telp": "081234567850",
-        "alamat": "Jl. Durian No. 310, Jakarta"
+        "alamat": "Jl. Durian No. 300, Jakarta"
     },
     {
-        "id_anggota": "A062",
         "nis": "2023062",
         "nama": "Sari Dewi",
         "jenis_kelamin": "Perempuan",
         "no_telp": "081234567851",
-        "alamat": "Jl. Durian No. 315, Bandung"
+        "alamat": "Jl. Durian No. 305, Bandung"
     },
     {
-        "id_anggota": "A063",
         "nis": "2023063",
         "nama": "Rian Setiawan",
         "jenis_kelamin": "Laki-laki",
         "no_telp": "081234567852",
-        "alamat": "Jl. Durian No. 320, Surabaya"
+        "alamat": "Jl. Durian No. 310, Surabaya"
     },
     {
-        "id_anggota": "A064",
         "nis": "2023064",
         "nama": "Nina Sari",
         "jenis_kelamin": "Perempuan",
         "no_telp": "081234567853",
-        "alamat": "Jl. Durian No. 325, Yogyakarta"
+        "alamat": "Jl. Durian No. 315, Yogyakarta"
     },
     {
-        "id_anggota": "A065",
         "nis": "2023065",
-        "nama": "Wawan Pratama",
+        "nama": "Eko Susanto",
         "jenis_kelamin": "Laki-laki",
         "no_telp": "081234567854",
-        "alamat": "Jl. Durian No. 330, Medan"
+        "alamat": "Jl. Durian No. 320, Medan"
     },
     {
-        "id_anggota": "A066",
         "nis": "2023066",
-        "nama": "Tina Kartika",
+        "nama": "Rina Puspita",
         "jenis_kelamin": "Perempuan",
         "no_telp": "081234567855",
-        "alamat": "Jl. Durian No. 335, Jakarta"
+        "alamat": "Jl. Durian No. 325, Jakarta"
     },
     {
-        "id_anggota": "A067",
         "nis": "2023067",
-        "nama": "Doni Susanto",
+        "nama": "Budi Prasetyo",
         "jenis_kelamin": "Laki-laki",
         "no_telp": "081234567856",
-        "alamat": "Jl. Durian No. 340, Bandung"
+        "alamat": "Jl. Durian No. 330, Bandung"
     },
     {
-        "id_anggota": "A068",
         "nis": "2023068",
-        "nama": "Dewi Ayu",
+        "nama": "Lina Wulandari",
         "jenis_kelamin": "Perempuan",
         "no_telp": "081234567857",
-        "alamat": "Jl. Durian No. 345, Surabaya"
+        "alamat": "Jl. Durian No. 335, Surabaya"
     },
     {
-        "id_anggota": "A069",
         "nis": "2023069",
-        "nama": "Indra Kurniawan",
+        "nama": "Tono Susanto",
         "jenis_kelamin": "Laki-laki",
         "no_telp": "081234567858",
-        "alamat": "Jl. Durian No. 350, Yogyakarta"
+        "alamat": "Jl. Durian No. 340, Yogyakarta"
     },
     {
-        "id_anggota": "A070",
         "nis": "2023070",
-        "nama": "Rina Susanti",
+        "nama": "Susi Dewi",
         "jenis_kelamin": "Perempuan",
         "no_telp": "081234567859",
-        "alamat": "Jl. Durian No. 355, Medan"
+        "alamat": "Jl. Durian No. 345, Medan"
     },
     {
-        "id_anggota": "A071",
         "nis": "2023071",
-        "nama": "Agus Setiawan",
+        "nama": "Rian Nugroho",
         "jenis_kelamin": "Laki-laki",
         "no_telp": "081234567860",
-        "alamat": "Jl. Durian No. 360, Jakarta"
+        "alamat": "Jl. Durian No. 350, Jakarta"
     },
     {
-        "id_anggota": "A072",
         "nis": "2023072",
-        "nama": "Mira Puspita",
+        "nama": "Tina Setiawati",
         "jenis_kelamin": "Perempuan",
         "no_telp": "081234567861",
-        "alamat": "Jl. Durian No. 365, Bandung"
+        "alamat": "Jl. Durian No. 355, Bandung"
     },
     {
-        "id_anggota": "A073",
         "nis": "2023073",
-        "nama": "Dedi Kusuma",
+        "nama": "Agus Priyanto",
         "jenis_kelamin": "Laki-laki",
         "no_telp": "081234567862",
-        "alamat": "Jl. Durian No. 370, Surabaya"
+        "alamat": "Jl. Durian No. 360, Surabaya"
     },
     {
-        "id_anggota": "A074",
         "nis": "2023074",
-        "nama": "Lestari Ayu",
+        "nama": "Siti Lestari",
         "jenis_kelamin": "Perempuan",
         "no_telp": "081234567863",
-        "alamat": "Jl. Durian No. 375, Yogyakarta"
+        "alamat": "Jl. Durian No. 365, Yogyakarta"
     },
     {
-        "id_anggota": "A075",
         "nis": "2023075",
-        "nama": "Andi Prasetyo",
+        "nama": "Andi Susanto",
         "jenis_kelamin": "Laki-laki",
         "no_telp": "081234567864",
-        "alamat": "Jl. Durian No. 380, Medan"
+        "alamat": "Jl. Durian No. 370, Medan"
     },
     {
-        "id_anggota": "A076",
         "nis": "2023076",
-        "nama": "Yuni Dewi",
-        "jenis_kelamin": "Perempuan",
-        "no_telp": "081234567865",
-        "alamat": "Jl. Durian No. 385, Jakarta"
-    },
-    {
-        "id_anggota": "A077",
-        "nis": "2023077",
-        "nama": "Bambang Susanto",
-        "jenis_kelamin": "Laki-laki",
-        "no_telp": "081234567866",
-        "alamat": "Jl. Durian No. 390, Bandung"
-    },
-    {
-        "id_anggota": "A078",
-        "nis": "2023078",
-        "nama": "Maya Sari",
-        "jenis_kelamin": "Perempuan",
-        "no_telp": "081234567867",
-        "alamat": "Jl. Durian No. 395, Surabaya"
-    },
-    {
-        "id_anggota": "A079",
-        "nis": "2023079",
-        "nama": "Hendra Pratama",
-        "jenis_kelamin": "Laki-laki",
-        "no_telp": "081234567868",
-        "alamat": "Jl. Durian No. 400, Yogyakarta"
-    },
-    {
-        "id_anggota": "A080",
-        "nis": "2023080",
         "nama": "Susi Andayani",
         "jenis_kelamin": "Perempuan",
-        "no_telp": "081234567869",
-        "alamat": "Jl. Durian No. 405, Medan"
+        "no_telp": "081234567865",
+        "alamat": "Jl. Durian No. 375, Jakarta"
     },
     {
-        "id_anggota": "A081",
+        "nis": "2023077",
+        "nama": "Eko Wulandari",
+        "jenis_kelamin": "Laki-laki",
+        "no_telp": "081234567866",
+        "alamat": "Jl. Durian No. 380, Bandung"
+    },
+    {
+        "nis": "2023078",
+        "nama": "Rina Kartika",
+        "jenis_kelamin": "Perempuan",
+        "no_telp": "081234567867",
+        "alamat": "Jl. Durian No. 385, Surabaya"
+    },
+    {
+        "nis": "2023079",
+        "nama": "Budi Pratama",
+        "jenis_kelamin": "Laki-laki",
+        "no_telp": "081234567868",
+        "alamat": "Jl. Durian No. 390, Yogyakarta"
+    },
+    {
+        "nis": "2023080",
+        "nama": "Lina Priyanto",
+        "jenis_kelamin": "Perempuan",
+        "no_telp": "081234567869",
+        "alamat": "Jl. Durian No. 395, Medan"
+    },
+    {
         "nis": "2023081",
-        "nama": "Wahyu Nugroho",
+        "nama": "Tono Setiawan",
         "jenis_kelamin": "Laki-laki",
         "no_telp": "081234567870",
-        "alamat": "Jl. Durian No. 410, Jakarta"
+        "alamat": "Jl. Durian No. 400, Jakarta"
     },
     {
-        "id_anggota": "A082",
         "nis": "2023082",
-        "nama": "Sari Lestari",
+        "nama": "Siti Wulandari",
         "jenis_kelamin": "Perempuan",
         "no_telp": "081234567871",
-        "alamat": "Jl. Durian No. 415, Bandung"
+        "alamat": "Jl. Durian No. 405, Bandung"
     },
     {
-        "id_anggota": "A083",
         "nis": "2023083",
         "nama": "Agus Susanto",
         "jenis_kelamin": "Laki-laki",
         "no_telp": "081234567872",
-        "alamat": "Jl. Durian No. 420, Surabaya"
+        "alamat": "Jl. Durian No. 410, Surabaya"
     },
     {
-        "id_anggota": "A084",
         "nis": "2023084",
         "nama": "Tuti Puspita",
         "jenis_kelamin": "Perempuan",
         "no_telp": "081234567873",
-        "alamat": "Jl. Durian No. 425, Yogyakarta"
+        "alamat": "Jl. Durian No. 415, Yogyakarta"
     },
     {
-        "id_anggota": "A085",
         "nis": "2023085",
         "nama": "Budi Susanto",
         "jenis_kelamin": "Laki-laki",
         "no_telp": "081234567874",
-        "alamat": "Jl. Durian No. 430, Medan"
+        "alamat": "Jl. Durian No. 420, Medan"
     },
     {
-        "id_anggota": "A086",
         "nis": "2023086",
         "nama": "Lina Setiawati",
         "jenis_kelamin": "Perempuan",
         "no_telp": "081234567875",
-        "alamat": "Jl. Durian No. 435, Jakarta"
+        "alamat": "Jl. Durian No. 425, Jakarta"
     },
     {
-        "id_anggota": "A087",
         "nis": "2023087",
         "nama": "Toni Prasetyo",
         "jenis_kelamin": "Laki-laki",
         "no_telp": "081234567876",
-        "alamat": "Jl. Durian No. 440, Bandung"
+        "alamat": "Jl. Durian No. 430, Bandung"
     },
     {
-        "id_anggota": "A088",
         "nis": "2023088",
         "nama": "Rina Setiawati",
         "jenis_kelamin": "Perempuan",
         "no_telp": "081234567877",
-        "alamat": "Jl. Durian No. 445, Surabaya"
+        "alamat": "Jl. Durian No. 435, Surabaya"
     },
     {
-        "id_anggota": "A089",
         "nis": "2023089",
         "nama": "Bambang Prasetyo",
         "jenis_kelamin": "Laki-laki",
         "no_telp": "081234567878",
-        "alamat": "Jl. Durian No. 450, Yogyakarta"
+        "alamat": "Jl. Durian No. 440, Yogyakarta"
     },
     {
-        "id_anggota": "A090",
         "nis": "2023090",
         "nama": "Susi Kartika",
         "jenis_kelamin": "Perempuan",
         "no_telp": "081234567879",
-        "alamat": "Jl. Durian No. 455, Medan"
+        "alamat": "Jl. Durian No. 445, Medan"
     },
     {
-        "id_anggota": "A091",
         "nis": "2023091",
         "nama": "Agus Prasetyo",
         "jenis_kelamin": "Laki-laki",
         "no_telp": "081234567880",
-        "alamat": "Jl. Durian No. 460, Jakarta"
+        "alamat": "Jl. Durian No. 450, Jakarta"
     },
     {
-        "id_anggota": "A092",
         "nis": "2023092",
         "nama": "Mira Kartika",
         "jenis_kelamin": "Perempuan",
         "no_telp": "081234567881",
-        "alamat": "Jl. Durian No. 465, Bandung"
+        "alamat": "Jl. Durian No. 455, Bandung"
     },
     {
-        "id_anggota": "A093",
         "nis": "2023093",
         "nama": "Andi Susanto",
         "jenis_kelamin": "Laki-laki",
         "no_telp": "081234567882",
-        "alamat": "Jl. Durian No. 470, Surabaya"
+        "alamat": "Jl. Durian No. 460, Surabaya"
     },
     {
-        "id_anggota": "A094",
         "nis": "2023094",
         "nama": "Siti Susanti",
         "jenis_kelamin": "Perempuan",
         "no_telp": "081234567883",
-        "alamat": "Jl. Durian No. 475, Yogyakarta"
+        "alamat": "Jl. Durian No. 465, Yogyakarta"
     },
     {
-        "id_anggota": "A095",
         "nis": "2023095",
         "nama": "Toni Susanto",
         "jenis_kelamin": "Laki-laki",
         "no_telp": "081234567884",
-        "alamat": "Jl. Durian No. 480, Medan"
+        "alamat": "Jl. Durian No. 470, Medan"
     },
     {
-        "id_anggota": "A096",
         "nis": "2023096",
         "nama": "Sri Setiawati",
         "jenis_kelamin": "Perempuan",
         "no_telp": "081234567885",
-        "alamat": "Jl. Durian No. 485, Jakarta"
+        "alamat": "Jl. Durian No. 475, Jakarta"
     },
     {
-        "id_anggota": "A097",
         "nis": "2023097",
         "nama": "Wawan Susanto",
-        "jenis_kelamin": "Laki-laki",
+       
+
+ "jenis_kelamin": "Laki-laki",
         "no_telp": "081234567886",
-        "alamat": "Jl. Durian No. 490, Bandung"
+        "alamat": "Jl. Durian No. 480, Bandung"
     },
     {
-        "id_anggota": "A098",
         "nis": "2023098",
-        "nama": "Susi Prasetyo",
+        "nama": "Rini Prasetyo",
         "jenis_kelamin": "Perempuan",
         "no_telp": "081234567887",
-        "alamat": "Jl. Durian No. 495, Surabaya"
+        "alamat": "Jl. Durian No. 485, Surabaya"
     },
     {
-        "id_anggota": "A099",
         "nis": "2023099",
-        "nama": "Agus Priyanto",
+        "nama": "Budi Kartika",
         "jenis_kelamin": "Laki-laki",
         "no_telp": "081234567888",
-        "alamat": "Jl. Durian No. 500, Yogyakarta"
+        "alamat": "Jl. Durian No. 490, Yogyakarta"
     },
     {
-        "id_anggota": "A100",
         "nis": "2023100",
-        "nama": "Dewi Susanti",
+        "nama": "Tina Setiawati",
         "jenis_kelamin": "Perempuan",
         "no_telp": "081234567889",
-        "alamat": "Jl. Durian No. 505, Medan"
+        "alamat": "Jl. Durian No. 495, Medan"
     }
 ]
